@@ -5,4 +5,4 @@ class Calculadora:
     def procesar(self, cadena):
         if(len(cadena) == 0):
             return [0,"","",""]
-        return ["","","",""]
+        return [1,1,1,1]
